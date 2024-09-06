@@ -35,10 +35,7 @@ let name;
 console.log(name);  // undefined
 ```
 
-
-
-
-# Non-Primitive Data Type(Reference Types)
+# Non-Primitive Data Type(Reference Data Types)
 - Object
 - Array
 
@@ -50,7 +47,7 @@ nums[0] = 4
 console.log(nums) // [4, 1, 2]
 ```
 
-2. Non-Primitive data types are not compared by values. Even if two non-primitive data types have the same properties and values, the are not strictly equals.
+2. Non-Primitive data types(Reference Data Types) are compared by references instead of values. Even if two non-primitive data types have the same properties and values, the are not strictly equals.
 
 ```javascript
 let nums1 = [0, 1, 2]
@@ -73,8 +70,22 @@ console.log(user1 == user1) // true
 3. Do not compare arryas, objects, functions. Non-primitive data types are reference types. The are compared by reference instead of values.
 
 
+# Dynamic Type
+
+JavaScript is a dynamically typed language, variables are not bound to only one type.
+
+```Javascript
+let name = "my name"
+name = 10
+console.log(name) // 10
 
 
+let productColors = ["red", "blue"]
+console.log(productColors) // ["red", "blue"]
+
+productColors[0] = 41
+console.log(productColors) // [41, 'blue']
+```
 
 
 

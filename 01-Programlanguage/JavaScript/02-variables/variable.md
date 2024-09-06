@@ -22,6 +22,17 @@ Then I store the string value "hello" in it.
 
 If I assign another value to this variable, the previous string 'hello' will be gabage collected by JavaScript. And the new string that we assigned will be stored in the memory location.
 
+### var/let/const
+
+```javascript
+
+
+
+```
+
+
+
+
 
 ## Built-in Function
 
@@ -35,7 +46,7 @@ I use a built-in function called "console.log" and pass the variable ending it w
 
 ## Execute
 
-I can execute this JavaScript file with Node.
+I can execute this JavaScript file with NodeJs Runtime Enviroment.
 
 
 

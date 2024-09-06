@@ -16,3 +16,6 @@ console.log(js == py)             //false
 
 
 // Undefined
+let name = "my name"
+name = 10
+console.log(name) // 10
