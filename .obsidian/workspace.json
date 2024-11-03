@@ -171,11 +171,13 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "hide-folders:Show hidden folders": false
     }
   },
-  "active": "1adfa43a02abb5b8",
+  "active": "d38b2fc884f9dc30",
   "lastOpenFiles": [
+    "New 文本文档.txt",
     "images/02-ProgrammingLanguage-python-env.png",
     "99-Idea/旅行计划.md",
     "99-Idea/点餐.md",
@@ -216,7 +218,6 @@
     "images/04-Database-MySQL-数据版本.png",
     "images/04-Database-MySQL并发读写.png",
     "images/04-Database-MySQL-事务列表.png",
-    "images/04-Database-MySQL-UnionIndex.png",
     "09-Stability",
     "09-CICD",
     "15-Leecode/Medium",
