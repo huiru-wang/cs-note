@@ -1,2 +1,5 @@
-.obsidian
+# 忽略.obsidian文件夹
+.obsidian/
+
+# 忽略.excalidraw文件
 *.excalidraw
