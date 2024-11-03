@@ -34,6 +34,7 @@ In a distributed system, availability means every request received by a non-fail
 $$
 Availability \ Requirement \ Metric=\frac{Total \ Time-Down \ Time}{Total \ Time} \ast 100\%
 $$
+
 99.9% Availability => 8.76 hours of downtime
 99.99% Availability => 52.6 minutes of downtime
 99.999% Availability => 5 minutes of downtime
