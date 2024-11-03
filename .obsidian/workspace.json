@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e2ae3d56845760a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa870ec6f89f3eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88dfbdf6ab0100fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Cache/12-Redis-Trouble Shooting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-Redis-Trouble Shooting"
+            }
+          },
+          {
+            "id": "1adfa43a02abb5b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/09-SystemDesign-Cache.png"
+              },
+              "icon": "lucide-image",
+              "title": "09-SystemDesign-Cache"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "446a222da245a150",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee985226afd8a4a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38b2fc884f9dc30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "213dbac908f35727",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "45b4fe4be053941b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5086555480957
+  },
+  "right": {
+    "id": "5eb9367484fb08c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ef43f112d25a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63075ef1caa2e9a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-Frontend/10-Nextjs.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "10-Nextjs 的反向链接列表"
+            }
+          },
+          {
+            "id": "df71157d9b14fee9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Frontend/10-Nextjs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "10-Nextjs 的出链列表"
+            }
+          },
+          {
+            "id": "4048f0b052475ceb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5d0edb39c0dbb001",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "51219cc82c1dbc05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "50-English/UI.md"
+              },
+              "icon": "lucide-list",
+              "title": "UI 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "88dfbdf6ab0100fa",
+  "lastOpenFiles": [
+    "images/README 1.md",
+    "images/README.md",
+    "images/Pasted image 20241010002257.png",
+    "05-Cache/12-Redis-Trouble Shooting.md",
+    "images/Pasted image 20241102232109.png",
+    "05-Cache/11-Redis-集群方案.md",
+    "05-Cache/10-Redis-主从.md",
+    "05-Cache/08-Redis-事务.md",
+    "05-Cache/07-Redis-内存管理.md",
+    "05-Cache/06-Redis-IO模型.md",
+    "05-Cache/02-Cache-DB缓存一致性.md",
+    "05-Cache/01-Cache-全链路缓存.md",
+    "05-Cache/00-Cache.md",
+    "03-Frontend/History of JavaScript.excalidraw.md",
+    "03-Frontend/30-Browser Cache.md",
+    "03-Frontend/20-Deploy.md",
+    "03-Frontend/10-Nextjs.md",
+    "03-Frontend/03-React.md",
+    "03-Frontend/01-ES6.md",
+    "03-Frontend/00-JavaScript.md",
+    "02-ProgrammingLanguage/10-Design Pattern/13-Facade.md",
+    "02-ProgrammingLanguage/10-Design Pattern/12-Adapter.md",
+    "02-ProgrammingLanguage/10-Design Pattern/11-Proxy.md",
+    "02-ProgrammingLanguage/03-Python/Env.md",
+    "02-ProgrammingLanguage/02-Go/01-Go Commond.md",
+    "02-ProgrammingLanguage/01-Java/21-web-Filter&Interceptor.md",
+    "02-ProgrammingLanguage/01-Java/20-web-Servlet.md",
+    "02-ProgrammingLanguage/01-Java/10-Spring.md",
+    "09-Stability",
+    "09-CICD",
+    "15-Leecode/Medium",
+    "15-Leecode/Easy",
+    "03-Frontend/未命名",
+    "50-English",
+    "15-Leecode",
+    "images/09-SystemDesign-MicroService-ZK.png",
+    "images/09-SystemDesign-Cache.png",
+    "07-Load Balancer",
+    "images/09-SystemDesign-MicroService-RPC.png",
+    "images/09-SystemDesign-CAP-Consistency.png",
+    "images/09-SystemDesign-CAP-Availability.png",
+    "images/09-SystemDesign-CAP.png",
+    "images/Pasted image 20241026111124.png",
+    "images/Pasted image 20241026105229.png",
+    "01-CS Basics/01-Network",
+    "04-Database/01-MySQL",
+    "未命名.canvas"
+  ]
+}
