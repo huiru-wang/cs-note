@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88dfbdf6ab0100fa",
+            "id": "1adfa43a02abb5b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Cache/12-Redis-Trouble Shooting.md",
+                "file": "02-ProgrammingLanguage/Python/Env.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-Redis-Trouble Shooting"
-            }
-          },
-          {
-            "id": "1adfa43a02abb5b8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/09-SystemDesign-Cache.png"
-              },
-              "icon": "lucide-image",
-              "title": "09-SystemDesign-Cache"
+              "title": "Env"
             }
           }
         ]
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Frontend/10-Nextjs.md",
+                "file": "02-ProgrammingLanguage/Python/Env.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "10-Nextjs 的反向链接列表"
+              "title": "Env 的反向链接列表"
             }
           },
           {
@@ -124,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Frontend/10-Nextjs.md",
+                "file": "02-ProgrammingLanguage/Python/Env.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "10-Nextjs 的出链列表"
+              "title": "Env 的出链列表"
             }
           },
           {
@@ -161,18 +149,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50-English/UI.md"
+                "file": "02-ProgrammingLanguage/Python/Env.md"
               },
               "icon": "lucide-list",
-              "title": "UI 的大纲"
+              "title": "Env 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
+    "width": 331.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -187,54 +174,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88dfbdf6ab0100fa",
+  "active": "1adfa43a02abb5b8",
   "lastOpenFiles": [
-    "images/README 1.md",
-    "images/README.md",
-    "images/Pasted image 20241010002257.png",
-    "05-Cache/12-Redis-Trouble Shooting.md",
-    "images/Pasted image 20241102232109.png",
-    "05-Cache/11-Redis-集群方案.md",
-    "05-Cache/10-Redis-主从.md",
-    "05-Cache/08-Redis-事务.md",
-    "05-Cache/07-Redis-内存管理.md",
-    "05-Cache/06-Redis-IO模型.md",
-    "05-Cache/02-Cache-DB缓存一致性.md",
-    "05-Cache/01-Cache-全链路缓存.md",
-    "05-Cache/00-Cache.md",
-    "03-Frontend/History of JavaScript.excalidraw.md",
-    "03-Frontend/30-Browser Cache.md",
-    "03-Frontend/20-Deploy.md",
-    "03-Frontend/10-Nextjs.md",
-    "03-Frontend/03-React.md",
-    "03-Frontend/01-ES6.md",
-    "03-Frontend/00-JavaScript.md",
-    "02-ProgrammingLanguage/10-Design Pattern/13-Facade.md",
-    "02-ProgrammingLanguage/10-Design Pattern/12-Adapter.md",
-    "02-ProgrammingLanguage/10-Design Pattern/11-Proxy.md",
-    "02-ProgrammingLanguage/03-Python/Env.md",
-    "02-ProgrammingLanguage/02-Go/01-Go Commond.md",
-    "02-ProgrammingLanguage/01-Java/21-web-Filter&Interceptor.md",
-    "02-ProgrammingLanguage/01-Java/20-web-Servlet.md",
-    "02-ProgrammingLanguage/01-Java/10-Spring.md",
+    "images/02-ProgrammingLanguage-python-env.png",
+    "99-Idea/旅行计划.md",
+    "99-Idea/点餐.md",
+    "99-Idea/第二大脑.md",
+    "99-Idea/英文听写.md",
+    "images/09-SystemDesign-Cache.png",
+    "88-Ai Agent/未命名.md",
+    "88-Ai Agent/AiAgent.excalidraw.md",
+    "08-System Design/02-API Design.md",
+    "50-English/UI.md",
+    "08-System Design/03-System Design Framework.md",
+    "08-System Design/01-Network Basics.md",
+    "08-System Design/00-Distributed System Basics.md",
+    "07-Architectural Patterns/20-Observability.md",
+    "07-Architectural Patterns/10-CI&CD.md",
+    "07-Architectural Patterns/05-事务和分布式锁.md",
+    "07-Architectural Patterns/05-Resilience.md",
+    "07-Architectural Patterns/04-Rate Limit.md",
+    "07-Architectural Patterns/03-Load Balance.md",
+    "07-Architectural Patterns/02-RPC.md",
+    "07-Architectural Patterns/01-Service Discovery.md",
+    "06-MessageQueue/00-MessageQueue.md",
+    "06-MessageQueue/RocketMQ",
+    "06-MessageQueue/Kafka",
+    "06-MessageQueue/RabbitMQ",
+    "05-Cache/Redis/12-Redis-Trouble Shooting.md",
+    "06-MessageQueue/30-RabbitMQ.md",
+    "06-MessageQueue/20-RocketMQ-.md",
+    "06-MessageQueue/01-Kafka-.md",
+    "05-Cache/Redis/11-Redis-集群方案.md",
+    "05-Cache/Redis",
+    "04-Database/PostgreSQL",
+    "01-CS-Basics-Browser-Server.png",
+    "images/04-Database-MySQL-MasterSlave.png",
+    "images/12-UTF-8.png",
+    "images/09-SystemDesign-CAP-Partition.png",
+    "images/09-SystemDesign-CAP-Availability.png",
+    "images/04-Database-MySQL-数据版本.png",
+    "images/04-Database-MySQL并发读写.png",
+    "images/04-Database-MySQL-事务列表.png",
+    "images/04-Database-MySQL-UnionIndex.png",
     "09-Stability",
     "09-CICD",
     "15-Leecode/Medium",
     "15-Leecode/Easy",
     "03-Frontend/未命名",
-    "50-English",
-    "15-Leecode",
-    "images/09-SystemDesign-MicroService-ZK.png",
-    "images/09-SystemDesign-Cache.png",
-    "07-Load Balancer",
-    "images/09-SystemDesign-MicroService-RPC.png",
-    "images/09-SystemDesign-CAP-Consistency.png",
-    "images/09-SystemDesign-CAP-Availability.png",
-    "images/09-SystemDesign-CAP.png",
-    "images/Pasted image 20241026111124.png",
-    "images/Pasted image 20241026105229.png",
-    "01-CS Basics/01-Network",
-    "04-Database/01-MySQL",
     "未命名.canvas"
   ]
 }

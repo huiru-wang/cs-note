@@ -1,5 +1,5 @@
 
-![](03-MySQL-architecture.png)
+![](../../images/04-Database-MySQL-architecture.png)
 
 
 <span style="background:#40a9ff">Client</span>：应用程序通常使用JDBC驱动，与MYSQL-Server交互；向MySQL服务器发送要执行的命令及SQL；

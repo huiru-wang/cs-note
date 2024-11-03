@@ -1,6 +1,6 @@
 # InnoDB如何控制读写并发
 
-![](03-MySQL并发读写.png)
+![](../../images/04-Database-MySQL并发读写.png)
 
 InnoDB方案：<font color="#de7802">锁 + MVCC</font>
 
@@ -97,7 +97,7 @@ select ... from ... for update;
 ```sql
 UPDATE t SET name = 'Lucy' WHERE id = 30;
 ```
-![](03-MySQL-GapLock.png)
+![](../../images/04-Database-MySQL-GapLock.png)
 
 ## 3. Next-key Locks临键锁(仅RR)
 
@@ -105,7 +105,7 @@ UPDATE t SET name = 'Lucy' WHERE id = 30;
 
 - RC级别：当通过WHERE过滤数据时，只锁满足条件的；(不存在间隙锁)
 - RR级别：当通过WHERE过滤数据时，锁住期间扫过的所有行；(间隙锁)
-![](03-MySQL-NextkeyLock.png)
+![](../../images/04-Database-MySQL-NextkeyLock.png)
 
 触发条件：
 - 在RR隔离级别下，只考虑Next-key锁，不再考虑记录锁；**一切锁都为区间**；再根据条件考虑退化；
@@ -232,7 +232,7 @@ MVCC根据<font color="#de7802">事务列表</font>、<font color="#de7802">版�
 
 ### 事务列表
 
-![](03-MySQL-事务列表.png)
+![](../../images/04-Database-MySQL-事务列表.png)
 - 每个事务都由一个分配的id；
 - 事务列表中的id顺序维护；
 - 通过事务列表的活跃事务，可以快速根据min_id、max_id判断当前事务是否活跃；
@@ -244,13 +244,13 @@ MVCC根据<font color="#de7802">事务列表</font>、<font color="#de7802">版�
 - <font color="#b8cce4">DB_ROLL_PTR</font>：指向前一个数据版本的指针；
 事务修改数据，则顺序生成一个新的版本；
 
-![](03-MySQL-数据版本.png)
+![](../../images/04-Database-MySQL-数据版本.png)
 
 
 
 ## ReadView如何生成
 
-![](03-MySQL-ReadView.png)
+![](../../images/04-Database-MySQL-ReadView.png)
 
 当事务进行<font color="#de7802">一致性读</font>操作时：
 1. 获取要读取的数据行、版本链信息、版本链中的事务id；

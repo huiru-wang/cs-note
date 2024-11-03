@@ -167,7 +167,7 @@ EL83paQZ: [[01-MySQL-数据结构]]
 
 YJn4ecFb: [[02-MySQL-架构]]
 
-v326bhSq: [[03-MySQL-InnoDB.png]]
+v326bhSq: [[04-Database-MySQL-InnoDB.png]]
 
 IKiawPNx: [[05-MySQL-读写并发]]
 

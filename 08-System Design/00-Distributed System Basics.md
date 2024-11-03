@@ -13,7 +13,7 @@ Partition tolerance refers to the ability of a distributed system to continue op
 
 In actual distributed systems, partition tolerance (P) is often inevitable.
 
-![](09-SystemDesign-CAP.png)
+![](../images/09-SystemDesign-CAP-Partition.png)
 
 ## Consistency
 

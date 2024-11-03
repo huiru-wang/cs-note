@@ -1,6 +1,6 @@
 # 环境关系
 
-![](../../images/01-python-env.png)
+![](../../images/02-ProgrammingLanguage-python-env.png)
 
 # 虚拟环境
 ## 创建一个虚拟环境 

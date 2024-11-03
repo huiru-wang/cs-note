@@ -6,7 +6,8 @@
 
 # 主从复制过程
 https://www.bilibili.com/video/BV1FH4y1K7rn/?spm_id_from=333.788&vd_source=ce67cf212f4a949cf75348b5404c5e27
-![[Pasted image 20241010002257.png]]
+
+![[../../images/04-Database-MySQL-MasterSlave.png]]
 
 准备工作：
 1. 主库需要开启`binlog`，记录着所有对数据的修改：插入、更新、删除；

@@ -1,4 +1,4 @@
-![](03-MySQL-b+tree.png)
+![](../../images/04-Database-MySQL-b+tree.png)
 
 # 为什么使用B+Tree索引
 
@@ -89,7 +89,7 @@
 
 ### 2. 联合索引
 
-![](03-MySQL-UnionIndex.png)
+![](../../images/04-Database-MySQL-UnionIndex.png)
 
 联合索引结构：
 - 多个索引列，以<font color="#de7802">Tuple</font>的形式存储；
